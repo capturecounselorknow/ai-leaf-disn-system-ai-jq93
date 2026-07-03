@@ -1,4 +1,4 @@
-# 
+# 独家 AI leaf disease detection system 工具。集成 生成式AI 和 预测分析，性能最大化。
 
 
 
